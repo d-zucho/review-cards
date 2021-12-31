@@ -1,0 +1,32 @@
+.card {
+  width: 375px;
+  background-color: aliceblue;
+  border: none;
+  border-radius: 8px;
+  min-height: 75px;
+  max-height: 225px;
+  margin: 2rem;
+  padding: 25px 35px;
+  box-shadow: 4px 4px 5px #000;
+  position: relative;
+}
+
+.text-display {
+  color: black;
+}
+
+.num-display {
+  color: white;
+  background-color: #ff6a95;
+  display: inline;
+  width: 3rem;
+  height: 3rem;
+  padding: 12px 0;
+  border-radius: 50%;
+  position: absolute;
+  top: -12px;
+  left: -12px;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-align: center;
+}

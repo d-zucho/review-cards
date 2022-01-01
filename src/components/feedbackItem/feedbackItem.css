@@ -11,9 +11,18 @@
   position: relative;
 }
 
-.text-display {
+.card.reverse {
+  background-color: rgba(0, 0, 0, 0.4);
   color: black;
 }
+
+.card.reverse .text-display {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+/* .text-display {
+  color: black;
+} */
 
 .num-display {
   color: white;

@@ -1,6 +1,5 @@
-.card {
+/* .card {
   width: 375px;
-  background-color: aliceblue;
   border: none;
   border-radius: 8px;
   min-height: 75px;
@@ -10,19 +9,6 @@
   box-shadow: 4px 4px 5px #000;
   position: relative;
 }
-
-.card.reverse {
-  background-color: rgba(0, 0, 0, 0.4);
-  color: black;
-}
-
-.card.reverse .text-display {
-  color: rgba(0, 0, 0, 0.4);
-}
-
-/* .text-display {
-  color: black;
-} */
 
 .num-display {
   color: white;
@@ -38,4 +24,4 @@
   font-weight: 700;
   font-size: 1.2rem;
   text-align: center;
-}
+} */
